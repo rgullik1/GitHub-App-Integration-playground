@@ -1,0 +1,20 @@
+{
+  "action": "opened",
+  "issue": {
+    "number": 1,
+    "title": "Test Issue",
+    "body": "This is a test issue created by a GitHub App",
+    "state": "open",
+    "user": {
+      "login": "test-app[bot]",
+      "type": "Bot"
+    }
+  },
+  "repository": {
+    "name": "GitHub-App-Integration-playground",
+    "full_name": "rgullik1/GitHub-App-Integration-playground"
+  },
+  "installation": {
+    "id": 12345
+  }
+}
