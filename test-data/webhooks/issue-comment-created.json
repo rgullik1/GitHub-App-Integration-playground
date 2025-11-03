@@ -1,0 +1,22 @@
+{
+  "action": "created",
+  "comment": {
+    "id": 1,
+    "body": "This is a test comment from a GitHub App",
+    "user": {
+      "login": "test-app[bot]",
+      "type": "Bot"
+    }
+  },
+  "issue": {
+    "number": 1,
+    "title": "Test Issue"
+  },
+  "repository": {
+    "name": "GitHub-App-Integration-playground",
+    "full_name": "rgullik1/GitHub-App-Integration-playground"
+  },
+  "installation": {
+    "id": 12345
+  }
+}

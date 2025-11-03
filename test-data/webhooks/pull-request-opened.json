@@ -1,0 +1,28 @@
+{
+  "action": "opened",
+  "pull_request": {
+    "number": 1,
+    "title": "Test Pull Request",
+    "body": "This is a test PR created by a GitHub App",
+    "state": "open",
+    "head": {
+      "ref": "feature-branch",
+      "sha": "abc123"
+    },
+    "base": {
+      "ref": "main",
+      "sha": "def456"
+    },
+    "user": {
+      "login": "test-app[bot]",
+      "type": "Bot"
+    }
+  },
+  "repository": {
+    "name": "GitHub-App-Integration-playground",
+    "full_name": "rgullik1/GitHub-App-Integration-playground"
+  },
+  "installation": {
+    "id": 12345
+  }
+}
